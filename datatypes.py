@@ -1,3 +1,7 @@
+# Company Name: MariaClara Solutions
+# Developer Name: Rodel
+# Date: November 10, 2022
+
 import os
 
 os.system("clear")
